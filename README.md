@@ -21,8 +21,11 @@ Skills: C/C++/Java/SQL
 <br>
 <div align = "center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumaiyaTabassum-1520)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumaiyaTabassum-1520&show_icons=true)  
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SumaiyaTabassum-1520)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumaiyaTabassum-1520)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SumaiyaTabassum-1520)  
+
