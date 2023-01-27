@@ -19,11 +19,20 @@
 
 <div align = "center">
 
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SumaiyaTabassum-1520&layout=compact&show_icons=true&theme=dark"/></br>
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SumaiyaTabassum-1520)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=SumaiyaTabassum-1520&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=SumaiyaTabassum-1520&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=SumaiyaTabassum-1520&show_icons=true" />
+</picture>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SumaiyaTabassum-1520)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SumaiyaTabassum-1520)  
+<br><img src="https://streak-stats.demolab.com/?user=SumaiyaTabassum-1520&layout=compact&show_icons=true&theme=dark"/></br>
 
