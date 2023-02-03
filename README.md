@@ -19,7 +19,7 @@
 
 <div align = "center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumaiyaTabassum-1520&show_icons=true&locale=en&layout=compact&langs_count=10" alt="SumaiyaTabassum-1520" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumaiyaTabassum-1520&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="SumaiyaTabassum-1520" /></p>
   
 <source
   src="https://github-readme-stats.vercel.app/api?username=SumaiyaTabassum-1520&show_icons=true&theme=dark"
